@@ -1,0 +1,4 @@
+330 #M
+82.5 #S
+20 #time
+12 #time_steps
